@@ -1,3 +1,4 @@
+//scrivere un numero da 30 a 99 in lettere
 #include <iostream>
 using namespace std;
 
